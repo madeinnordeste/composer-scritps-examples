@@ -1,0 +1,10 @@
+{
+    "scripts" : {
+        "listFiles" : "ls -la",
+        "createFile" : "echo `date +%Y-%m-%d:%H:%M:%S` > date.txt",
+        "runAll": [
+            "@listFiles",
+            "@createFile"
+        ]
+    }
+}
