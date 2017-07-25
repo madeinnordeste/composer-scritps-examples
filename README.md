@@ -39,7 +39,7 @@ Run all:
 	
 	
 
-##References:
+## References:
 
 * [Composer](https://getcomposer.org/)
 * [Composer Scripts](https://getcomposer.org/doc/articles/scripts.md/)
