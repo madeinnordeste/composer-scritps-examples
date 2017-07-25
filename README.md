@@ -42,6 +42,7 @@ Run all:
 ## References:
 
 * [Composer](https://getcomposer.org/)
-* [Composer Scripts](https://getcomposer.org/doc/articles/scripts.md/)
+* [Composer - Getting Started](https://getcomposer.org/doc/00-intro.md)
+* [Composer - Scripts](https://getcomposer.org/doc/articles/scripts.md/)
 * [Automatizando tarefas com composer - Imasters](https://imasters.com.br/desenvolvimento/automatizando-tarefas-com-composer/)
 		
